@@ -1,3 +1,4 @@
 # Demo
-This is my first Git Repository
-Author - Rakesh Suvasiya
+This is my first Git Repository.
+<br>
+<h5>Author - Rakesh Suvasiya</h5>
